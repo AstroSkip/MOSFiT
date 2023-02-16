@@ -2365,5 +2365,44 @@
 				"offset": 0
 			}
 		}
+
+	},
+	{
+		"telescopes": [
+			"",
+			"ZTF",
+			"ztf",
+			"Palomar48"
+		],
+		"systems": [
+			"",
+			"AB"
+		],
+		"instruments": [
+			"",
+                        "ZTF",
+			"ZTFCam",
+			"ztf",
+			"ztfcam"
+		],
+		"bandsets": [
+			"",
+			"ZTF",
+			"ztf"
+		],
+		"filters": {
+			"r": {
+				"SVO": "Palomar/ZTF.r",
+				"offset": 0
+			},
+			"g": {
+				"SVO": "Palomar/ZTF.g",
+				"offset": 0
+			},
+			"i": {
+				"SVO": "Palomar/ZTF.i",
+				"offset": 0
+			}
+		}
 	}
 ]
